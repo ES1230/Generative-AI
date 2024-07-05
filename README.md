@@ -7,7 +7,12 @@
 - LangChain으로 ChatGPT 만들기
 - DALL-E 3로 이미지 생성하기
     
-⚙   
-gradio==4.0.2   
-gpt-3.5-turbo
+⚙ ver   
+- gradio 4.0.2   
+- gpt-3.5-turbo   
+- DALL-E-3   
 
+      
+###
+✍ DALL-E봇 만들기(DALL-E + ChatGPT + LangChain )
+![DALLE-IMAGE](https://github.com/ES1230/Generative-AI/assets/153258776/4264de74-d34f-4161-b723-1b041b34a715)
