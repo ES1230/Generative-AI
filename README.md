@@ -1,5 +1,7 @@
-# Generative-AI   
-
+### Generative-AI   
+ 스파르타 코딩클럽 - 실습으로 익히는 생성형 AI
+ #
+   
 📕 생성형 AI 학습
 - Gradio로 인공지능 서비스 UI개발
 - Hugging Face로 인공지능 서비스 만들기
